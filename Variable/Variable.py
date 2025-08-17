@@ -53,6 +53,6 @@ dict = {"name": "Aarya", "age": 30}
 python = None
 print(type(python))
 
-"""Unconvered or Advance Python Datatypes{
+"""Uncovered or Advance Python Datatypes{
     complex, fronzenset, bytes, bytearray, memoryview
 }"""
