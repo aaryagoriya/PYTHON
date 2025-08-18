@@ -1,3 +1,5 @@
 #Input 
 vari = input("Enter value:")
-print(vari  )
+print(vari)
+
+a = "Python"
